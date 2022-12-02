@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Диктофон</string>
+
+    <string name="record">Диктофон</string>
+    <string name="list_record">Записи</string>
+
+    <string name="default_file_name">Запись</string>
+    <string name="toast_recording_finish">Запись сохранена</string>
+    <string name="notification_recording">Идет запись…</string>
+    <string name="toast_recording_start">Запись началась</string>
+    <string name="file_is_not_exist_text">Аудиофайл не найден</string>
+    <string name="file_deleted_text">Аудиофайл успешно удален</string>
+    <string name="dialog_title_delete">Подтвердите удаление</string>
+    <string name="dialog_text_delete">Удалить эту запись?</string>
+    <string name="dialog_action_yes">Да</string>
+    <string name="dialog_action_no">Нет</string>
+    <string name="start_record">Начать запись</string>
+    <string name="stop_record">Остановить запись</string>
+
+    <string name="toast_recording_permissions">Без разрешения запись невозможна</string>
+    <string name="toast_recording_permissions_do_not_ask">Без разрешения запись невозможна, включите разрешение в настройках</string>
+    <string name="notification_channel_id" translatable="false">ru.tim.record.RecordService</string>
+    <string name="notification_channel_name" translatable="true">Recorder</string>
+    <string name="file_playback_error">Ошибка при воспроизведении файла</string>
+</resources>
